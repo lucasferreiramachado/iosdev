@@ -19,3 +19,9 @@ iosdev --help
 ```sh
 iosdev uninstall
 ```
+
+## Version
+
+```sh
+iosdev version
+```

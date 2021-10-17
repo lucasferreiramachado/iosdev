@@ -9,7 +9,8 @@ struct iosdev: ParsableCommand {
         abstract: "An automation task runner for iOS Development infrastructure.",
         subcommands: [
             Install.self, 
-            Uninstall.self]
+            Uninstall.self,
+            Version.self]
     )
 }
 
